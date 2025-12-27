@@ -9,7 +9,7 @@ date: "May 2019"
 This repository contains the R code and data for my Master’s thesis at the **University of Arkansas**. The project utilizes automated content analysis and text mining to compare how state politicians and local news media frame the debate surrounding gun policy in Arkansas.
 
 ## 📌 Research Summary
-The study examines 354 gun-related tweets from three Arkansas politicians (Charlie Collins, Denise Garner, and Greg Leding) and 40 news articles from three local newspapers. The analysis focuses on:
+The study examines ~5000 gun-related tweets from three Arkansas politicians (Charlie Collins, Denise Garner, and Greg Leding) and ~4000 news articles from three local newspapers. The analysis focuses on:
 * **Framing:** How language is used to construct narratives.
 * **Sentiment:** Measuring the emotional valence (fear, anger, trust, etc.).
 * **Word Usage:** Identifying the most frequent terms and their impact on political narrative.
